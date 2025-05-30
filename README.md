@@ -1,4 +1,4 @@
-# 🌍 Plamory - Location-Based Memory Journal
+# 🌍 Locamory - Location-Based Memory Journal
 
 **Capture life's moments where they happened**  
 _A web app where users log in to pin text memories to map locations_
